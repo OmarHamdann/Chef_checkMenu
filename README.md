@@ -1,2 +1,2 @@
-# Chef checkMenu
+# Chef check Menu
 chai testing 
